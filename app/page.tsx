@@ -53,7 +53,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Make a change to bake-off vercel and netlify
+            Demo for the standup
           </p>
         </a>
 
